@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
+I'm Hedi, a master's degree student that specializes in DevOps & Cloud Computing
 <!--
 **Hedi-AM/Hedi-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
